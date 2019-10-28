@@ -1,0 +1,30 @@
+_repo: Follow-the-Ball_60540
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barbour, Ralph Henry
+    alias: Barbour, R. H. (Ralph Henry)
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '2067'
+    url: http://www.gutenberg.org/2009/agents/2067
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Henry_Barbour
+description: ''
+gutenberg_issued: '2019-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60540'
+  lccn: '24020563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Football -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcsh 'Football stories'
+- GITenberg
+title: Follow the Ball
+url: http://www.gutenberg.org/ebooks/60540
